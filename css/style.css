@@ -1,0 +1,269 @@
+#wrapper {
+height: auto;
+width: 1200px;
+margin: 0 auto; /*this will centralize the div, horizontal. so that it is nice looking in the middle on different computer screens. */
+}
+
+
+#header{
+	width: 100%;
+	height: 80px;
+	/*background-color: gray;*/
+	border-style: solid;
+	border-width: 1px;
+}
+.logo{
+	float: left;
+	width: 150px;
+	height: 70px;
+	background-color: yellow;
+	margin: 5px;
+	border: 1px;
+	border-radius: 5px;
+}
+.navbar{
+	float: left;
+	padding: 5px;
+	margin: 22px 28px -50px 589px ;
+	/*background-color: red;*/
+}
+.nav .btn{
+	background-color: #fff;
+	font-size: 20px;
+	margin-left: 5px;
+	cursor: pointer;
+	text-align: center;
+}
+.login{
+	float: right;
+	margin: -74px 32px -40px 700px;
+	vertical-align: middle;
+}
+.login .login_btn{
+	float: left;
+	background-color: #ffffff;
+    font-size: 22px;
+    border: 1px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50px;
+    padding-left: 80px;
+    padding-bottom: 30px;
+    margin: 10px -5px 10px 10px;
+    position: static;
+    bottom: 10px;
+    cursor: pointer;
+}
+.login_btn > p{
+    position: absolute;
+    right: 118px;
+    bottom: 540px;
+}
+
+#carousel{
+	border-style: solid;
+	border-width: 1px;
+	width: 100%;
+	height: 27.5em;
+	background-color: #999;
+}
+
+#bodyleft{
+	/*background-color: magenta;*/
+	margin-top: 2em;
+	border-right: 1px solid;
+	width: 70%;
+	height: 100em;
+}
+
+#bodyright{
+	margin-top: 2em;
+	height: 50em;
+}
+.heading3{
+	margin-left: 105px;
+}
+.text1{
+	font-size: 15px;
+	color: #999999;
+	margin-left: 105px;
+	width: 642px;
+}
+.image{
+	width: 680px;
+	height: 320px;
+	margin-top: -26px;
+	margin-left: 100px;
+}
+
+.readmore{
+	float: bottom;
+	margin: -74px 32px -40px 700px;
+	vertical-align: middle;
+}
+.readmore .read_btn{
+	background-color: #ffffff;
+    font-size: 18px;
+    border: 1px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50px;
+    padding-left: 124px;
+    padding-bottom: 32px;
+    margin: 85px -20px 10px -595px;
+    position: static;
+    bottom: 10px;
+    cursor: pointer;
+}
+.read_btn > p{
+	position: absolute;
+    right: 605px;
+    bottom: 809px;
+}
+.hor_line{
+	position: absolute;
+    right: 46px;
+    bottom: 790px;
+}
+.btm_img > img{
+    position: absolute;
+    left: 115px;
+    bottom: 380px;
+}
+.btm_img2 > img{
+    position: absolute;
+    left: 470px;
+    bottom: 380px;
+}
+.btm_img3 > img{
+    position: absolute;
+    left: 115px;
+    bottom: -35px;
+}
+.btm_img4 > img{
+    position: absolute;
+    left: 470px;
+    bottom: -35px;
+}
+
+#bodyright{
+	height: 60em;
+}
+.search_box{
+	position: absolute;
+	left: 30px;
+	top: 0px;
+    width: 255px;
+    height: 100px;
+    background-color: #E2E2E2;
+    margin-left: 6px;
+}
+.headingg3{
+	margin: 5px 5px 5px 40px;
+}
+.search_field{
+	margin: 5px 5px 5px 40px;
+	padding: 5px;
+}
+.category{
+    position: absolute;
+    left: 30px;
+    top: 108px;
+    width: 255px;
+    height: 200px;
+    
+}
+.category >p{
+	font-size: 20px;
+	font-weight: 200px;
+	border-bottom: 1px solid;
+	border-color: #c6cad1;
+	margin: 5px 0px 15px 0px;
+	padding-bottom: 10px;
+}
+
+li{
+	line-height: 24px;
+	font-size: 14px;
+	margin-top: 5px;
+}
+
+.ad{
+    position: absolute;
+    left: 30px;
+    top: 330px;
+    width: 255px;
+    height: 200px;
+    
+}
+
+.ad >p{
+	font-size: 20px;
+	font-weight: 200px;
+	border-bottom: 1px solid;
+	border-color: #c6cad1;
+	margin: 5px 0px 15px 0px;
+	padding-bottom: 10px;
+}
+
+#footer{
+	background-color: #aeb1b7;
+	width: 100%;
+	height: 330px;
+	margin: 75px 0px 0px 0px;
+}
+.image_logo{
+	position: absolute;
+	margin: 50px 0px 0px 20px;
+	width: 396px;
+	height: 145px;
+	
+}
+
+#about{
+	width: 180px;
+	height: 150px;
+	margin: 50px 0px 0px 180px;
+}
+
+.headingthree{
+	font-size: 18px;
+	padding-bottom: 10px;
+	margin: 0px;
+}
+.head_para{
+	margin: 0px;
+}
+#join{
+	width: 250px;
+	height: 150px;
+	margin: 50px 0px 0px 30px;
+}
+.headingthree2{
+	font-size: 18px;
+	margin: 0px;
+	padding-bottom: 10px;
+}
+
+#help{
+	width: 150px;
+	height: 100px;
+	margin: 50px 0px 0px 30px;
+}
+
+.headingthree3{
+	font-size: 18px;
+	margin: 0px;
+	padding-bottom: 10px;
+	
+}
+
+.hr2 > img{
+	margin: 40px 0px 0px 50px;
+}
+
+.foot_content{
+	text-align: center;
+	margin: 30px 0 0 0;
+	font-size: 13px;
+}
